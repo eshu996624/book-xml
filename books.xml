@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="books.xsl"?>
+<!DOCTYPE books SYSTEM "books.dtd">
+
+<books xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="books.xsd">
+
+    <book>
+        <title>c programming</title>
+        <author>Dennis Ritchie</author>
+        <isbn>9780071808552</isbn>
+        <publisher>Brian Kernighan</publisher>
+        <edition>10</edition>
+        <price>650</price>
+    </book>
+
+    <book>
+        <title>python</title>
+        <author>Dr.Abhinav</author>
+        <isbn>9781234567890</isbn>
+        <publisher>Pearson</publisher>
+        <edition>2</edition>
+        <price>500</price>
+    </book>
+
+</books>
